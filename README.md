@@ -123,15 +123,4 @@ Python utility for encoding messages — includes tests.
 
 ---
 
-## 🧰 ML Engineer Toolbox
-```bash
-# create isolated environment
-python -m venv .venv && source .venv/bin/activate
-pip install -U numpy pandas scikit-learn matplotlib fastapi uvicorn
 
-# style & test
-pip install -U pytest black isort
-pytest -q && black . && isort .
-
-# serve a model
-uvicorn app:api --reload
