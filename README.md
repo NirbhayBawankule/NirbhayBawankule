@@ -71,56 +71,5 @@
 
 </details>
 
----
-
-## 🌟 Featured Projects
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-  
-### 🔐 [Password Strength Classifier](https://github.com/NirbhayBawankule/password-strength-classifier)
-Softmax NN built from scratch to predict password strength.  
-`Python` • `NumPy` • `ML from Scratch`
-
-![Stars](https://img.shields.io/github/stars/NirbhayBawankule/password-strength-classifier?style=social)
-
-</td>
-<td align="center" width="50%">
-
-### 🩺 [Breast Cancer Diagnosis](https://github.com/NirbhayBawankule/breast-cancer-logistic)
-Logistic Regression from scratch on Kaggle dataset.  
-`Logistic Regression` • `ML Metrics`
-
-![Stars](https://img.shields.io/github/stars/NirbhayBawankule/breast-cancer-logistic?style=social)
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-### 🚕 [Uber Ride Data Analysis](https://github.com/NirbhayBawankule/uber-ride-analysis)
-Analyzed trip patterns, demand, and cancellations.  
-`Pandas` • `EDA` • `Matplotlib`
-
-![Stars](https://img.shields.io/github/stars/NirbhayBawankule/uber-ride-analysis?style=social)
-
-</td>
-<td align="center" width="50%">
-
-### 🔤 [Message Encoder](https://github.com/NirbhayBawankule/message_encoder)
-Python utility for encoding messages — includes tests.  
-`CLI Tool` • `pytest`
-
-![Stars](https://img.shields.io/github/stars/NirbhayBawankule/message_encoder?style=social)
-
-</td>
-</tr>
-</table>
-
-> 📌 *Tip: Pin these repositories to show them as cards on your GitHub profile.*
-
----
 
 
